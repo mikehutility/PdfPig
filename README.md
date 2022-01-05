@@ -16,6 +16,8 @@ This project aims to port [PDFBox](https://github.com/apache/pdfbox) to C#.
 
 ## Installation
 
+test
+
 The package is available via the releases tab or from Nuget:
 
 https://www.nuget.org/packages/PdfPig/
